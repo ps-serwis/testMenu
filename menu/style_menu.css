@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: arial; ;
+    font-family: verdana; ;
 }
 nav {
     display: flex;
@@ -41,7 +41,7 @@ nav {
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 13px;
 }
 .burger {
     display: none;
